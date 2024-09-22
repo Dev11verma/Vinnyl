@@ -45,8 +45,16 @@
   },
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "Dev Verma",
   "license": "ISC",
   "devDependencies": {},
-  "description": ""
+  "description": "Vinnyl is a music streaming app designed to provide users with an immersive listening experience. With a sleek and intuitive interface, users can search for their favorite tracks, discover new music, and create personalized playlists. Vinnyl leverages cutting-edge technology to deliver high-quality audio and a seamless user experience. Whether you're at home or on the go, Vinnyl keeps your music library at your fingertips.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev11verma/Vinnyl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dev11verma/Vinnyl/issues"
+  },
+  "homepage": "https://github.com/Dev11verma/Vinnyl#readme"
 }
